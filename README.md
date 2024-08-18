@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnemu&label=Profile%20views&color=0e75b6&style=flat" alt="rnemu" /> </p>
+![image](https://github.com/user-attachments/assets/c402eac7-1f21-4e60-b96c-8f85036bc5be)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
