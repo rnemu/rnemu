@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **rakeshnemu237@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1E_rNXVR749gO7raYf7BpRynIdheGUj9r/view?usp=sharing)
-
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VVpo2izqoBkpMKI-c5MsSt0mfsUhKKHd/view?usp=drive_link)
 - ⚡ Fun fact **I love to play cricket, football, and watch movies.**
 
 <h3 align="left">Connect with me:</h3>
